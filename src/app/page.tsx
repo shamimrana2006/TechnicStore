@@ -1,5 +1,4 @@
-import Image from "next/image";
 
 export default function Home() {
-  return <div>TechnicStore</div>;
+  return <div className="bg-red-500 h-screen">TechnicStore</div>;
 }
